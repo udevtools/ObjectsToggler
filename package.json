@@ -1,0 +1,6 @@
+{
+  "name": "com.unitools.objectstoggler",
+  "version": "1.0.0",
+  "displayName": "Objects Toggler",
+  "description": "Add toggle to Hierarchy GameObjects."
+}
